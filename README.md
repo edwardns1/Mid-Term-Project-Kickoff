@@ -5,10 +5,9 @@ Media Tracker is a web application that allows users to organize and track their
 
 ## Planned Features
 - Add, edit, and delete media items
-- Search and filter media by title, type, status, rating, and notes
-- Sort media items by different attributes
-- Persistent data storage using localStorage
-- Responsive design for mobile and desktop
+- Search and filter by title, type, status, rating, and notes
+- Sort items by title, type, status, rating, or notes
+- Toggle between dark and light mode
 
 ## Tech Stack
 - React (frontend framework)
